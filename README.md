@@ -75,3 +75,5 @@ Push to your branch (git push origin feature-name)
 Open a Pull Request
 
 ⚠ Ensure your code adheres to the project’s coding standards and includes proper testing.
+<img width="1774" height="988" alt="image" src="https://github.com/user-attachments/assets/ab79c2db-0935-467c-b8b2-80e9e4ef3f5f" />
+
