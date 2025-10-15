@@ -3,6 +3,7 @@ Lostective – Lost & Found Portal
 Overview :
 
 Lostective is a modern React-based web application designed to help users report, browse, and claim lost or found items. It provides a clean and responsive interface for seamless navigation, making it easy for communities to manage lost and found items efficiently.
+<img width="1774" height="988" alt="image" src="https://github.com/user-attachments/assets/ab79c2db-0935-467c-b8b2-80e9e4ef3f5f" />
 
 Features :
 
@@ -75,5 +76,5 @@ Push to your branch (git push origin feature-name)
 Open a Pull Request
 
 ⚠ Ensure your code adheres to the project’s coding standards and includes proper testing.
-<img width="1774" height="988" alt="image" src="https://github.com/user-attachments/assets/ab79c2db-0935-467c-b8b2-80e9e4ef3f5f" />
+
 
