@@ -20,11 +20,16 @@ Features :
 📱 Responsive Design: Works on desktop, tablet, and mobile devices.
 
 
- **Intelligent Matching Engine:** The core of the platform. It uses AI to analyze and match items with high precision.
+ **Intelligent Matching Engine:** The core of the platform. It uses AI to analyze and match items with high precision.\
+ 
   **📝 Natural Language Processing (NLP):** Performs semantic analysis on text descriptions to understand context and synonyms (e.g., matches "dark wallet" with "black leather billfold").
+  
  **📸 Computer Vision (CNN):** Analyzes uploaded images to compare visual features like color, shape, and texture, finding matches even with different photo quality or angles.
+ 
 * 🔔 **Automated Real-Time Notifications:** Users are proactively alerted via instant notifications as soon as the system identifies a high-confidence match for their item.
+* 
 * 📱 **Responsive & Modern UI:** A clean, intuitive, and mobile-first interface built with React ensures a seamless user experience.
+* 
 * 🔐 **Secure Authentication:** User accounts and data are protected with a secure JWT (JSON Web Token) based authentication system.
 
 * 
