@@ -26,6 +26,8 @@ Features :
 * 🔔 **Automated Real-Time Notifications:** Users are proactively alerted via instant notifications as soon as the system identifies a high-confidence match for their item.
 * 📱 **Responsive & Modern UI:** A clean, intuitive, and mobile-first interface built with React ensures a seamless user experience.
 * 🔐 **Secure Authentication:** User accounts and data are protected with a secure JWT (JSON Web Token) based authentication system.
+
+* 
 Technologies Used 🛠️
 
 Frontend: React.js,  Tailwind CSS
